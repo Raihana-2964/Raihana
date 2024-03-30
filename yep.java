@@ -7,7 +7,7 @@ public class SubtractTwoNumbers {
         double y=10;
         double z=50;
         // declare another variable to hold the substracted value
-        int subtract;
+        
  
         // calculate the substraction 
         add = y+z;
