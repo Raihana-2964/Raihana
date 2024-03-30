@@ -10,7 +10,7 @@ public class SubtractTwoNumbers {
         int subtract;
  
         // calculate the substraction 
-        add = x + y;
+        add = y+z;
  
         // print the calculated subtract value
         System.out.println("The substraction of two Numbers: " + subtract);
